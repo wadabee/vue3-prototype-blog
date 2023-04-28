@@ -1,6 +1,7 @@
-# vue3-blog
+# vue3-prototype-blog
 
-This template should help get you started developing with Vue 3 in Vite.
+AWS Japan プロトタイピングチームブログで公開した記事の補足コードです。  
+記事は[こちら](https://prototyping-blog.com/blog/vue3-typescript)になります。  
 
 ## Recommended IDE Setup
 
